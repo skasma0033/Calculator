@@ -11,7 +11,7 @@ It allows users to perform basic arithmetic operations like:
 
 The program runs in a loop so users can perform multiple calculations without restarting.
 
----
+
 
 ## 🚀 Features
 - User-friendly command-line interface  
@@ -20,27 +20,27 @@ The program runs in a loop so users can perform multiple calculations without re
 - Accepts decimal (float) inputs  
 - Simple and beginner-friendly code  
 
----
+
 
 ## 🛠️ Technologies Used
 - Python  
 - VS Code  
 - Git & GitHub  
 
----
+
 
 ## 🚀 Future Improvements
 - Add GUI using Tkinter or Streamlit  
 - Add more operations (power, modulus)  
 - Improve UI/UX  
 
----
+
 
 ## 🙋‍♀️ Author
 **Asma Shaik**  
 
 GitHub: https://github.com/skasma0033  
 
----
+
 
 ⭐ If you like this project, give it a star!
